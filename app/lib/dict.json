@@ -1,0 +1,707 @@
+{ 
+	"0": { 
+	 	"lietal": "ol" 
+	}, 
+	"1": { 
+	 	"lietal": "al" 
+	}, 
+	"1'000'000": { 
+	 	"lietal": "liela" 
+	}, 
+	"1'000'000'000": { 
+	 	"lietal": "liesa" 
+	}, 
+	"10": { 
+	 	"lietal": "lira" 
+	}, 
+	"10'000": { 
+	 	"lietal": "lie" 
+	}, 
+	"10'000'000": { 
+	 	"lietal": "lieli" 
+	}, 
+	"100": { 
+	 	"lietal": "loe" 
+	}, 
+	"100'000": { 
+	 	"lietal": "lielo" 
+	}, 
+	"100'000'000": { 
+	 	"lietal": "lieso" 
+	}, 
+	"1000": { 
+	 	"lietal": "lae" 
+	}, 
+	"10^10": { 
+	 	"lietal": "lieri" 
+	}, 
+	"10^7": { 
+	 	"lietal": "liesi" 
+	}, 
+	"10^8": { 
+	 	"lietal": "liero" 
+	}, 
+	"10^9": { 
+	 	"lietal": "liera" 
+	}, 
+	"11": { 
+	 	"lietal": "lïr" 
+	}, 
+	"2": { 
+	 	"lietal": "il" 
+	}, 
+	"3": { 
+	 	"lietal": "lio" 
+	}, 
+	"4": { 
+	 	"lietal": "lia" 
+	}, 
+	"5": { 
+	 	"lietal": "lï" 
+	}, 
+	"6": { 
+	 	"lietal": "liso" 
+	}, 
+	"7": { 
+	 	"lietal": "lisa" 
+	}, 
+	"8": { 
+	 	"lietal": "lïs" 
+	}, 
+	"9": { 
+	 	"lietal": "liro" 
+	}, 
+	"again": { 
+	 	"lietal": "lia" 
+	}, 
+	"and": { 
+	 	"lietal": "is" 
+	}, 
+	"assembled": { 
+	 	"lietal": "sako" 
+	}, 
+	"at": { 
+	 	"lietal": "ak" 
+	}, 
+	"automation": { 
+	 	"lietal": "rido" 
+	}, 
+	"aware": { 
+	 	"lietal": "jäf" 
+	}, 
+	"basket": { 
+	 	"lietal": "dosako" 
+	}, 
+	"bat": { 
+	 	"lietal": "vät" 
+	}, 
+	"beings": { 
+	 	"lietal": "dali" 
+	}, 
+	"between": { 
+	 	"lietal": "käs" 
+	}, 
+	"black": { 
+	 	"lietal": "lyfaso" 
+	}, 
+	"blue": { 
+	 	"lietal": "lyfaloki" 
+	}, 
+	"book": { 
+	 	"lietal": "todoti" 
+	}, 
+	"bye": { 
+	 	"lietal": "vïr" 
+	}, 
+	"can": { 
+	 	"lietal": "aj" 
+	}, 
+	"cannot": { 
+	 	"lietal": "oj" 
+	}, 
+	"cat": { 
+	 	"lietal": "kät" 
+	}, 
+	"children": { 
+	 	"lietal": "ok" 
+	}, 
+	"city": { 
+	 	"lietal": "doradali" 
+	}, 
+	"cloak": { 
+	 	"lietal": "dokita" 
+	}, 
+	"collection pop": { 
+	 	"lietal": "ul" 
+	}, 
+	"collection push": { 
+	 	"lietal": "el" 
+	}, 
+	"color": { 
+	 	"lietal": "lyfa" 
+	}, 
+	"connect": { 
+	 	"lietal": "ek" 
+	}, 
+	"counter": { 
+	 	"lietal": "yl" 
+	}, 
+	"crowded": { 
+	 	"lietal": "dulida" 
+	}, 
+	"dangerous": { 
+	 	"lietal": "vofita" 
+	}, 
+	"desk": { 
+	 	"lietal": "todeo" 
+	}, 
+	"directly": { 
+	 	"lietal": "jïr" 
+	}, 
+	"disconnect": { 
+	 	"lietal": "uk" 
+	}, 
+	"documentation": { 
+	 	"lietal": "takït" 
+	}, 
+	"event": { 
+	 	"lietal": "kodi" 
+	}, 
+	"everyone": { 
+	 	"lietal": "salida" 
+	}, 
+	"everything": { 
+	 	"lietal": "sadola" 
+	}, 
+	"eye": { 
+	 	"lietal": "däf" 
+	}, 
+	"false": { 
+	 	"lietal": "uv" 
+	}, 
+	"fast": { 
+	 	"lietal": "lira" 
+	}, 
+	"father": { 
+	 	"lietal": "darïk" 
+	}, 
+	"few": { 
+	 	"lietal": "talo" 
+	}, 
+	"first": { 
+	 	"lietal": "lyde" 
+	}, 
+	"fox": { 
+	 	"lietal": "föj" 
+	}, 
+	"from": { 
+	 	"lietal": "or" 
+	}, 
+	"future": { 
+	 	"lietal": "dïr" 
+	}, 
+	"good": { 
+	 	"lietal": "iv" 
+	}, 
+	"grandfather": { 
+	 	"lietal": "darikï" 
+	}, 
+	"grandmother": { 
+	 	"lietal": "darokï" 
+	}, 
+	"grandparent": { 
+	 	"lietal": "dakï" 
+	}, 
+	"green": { 
+	 	"lietal": "lyfäl" 
+	}, 
+	"grey": { 
+	 	"lietal": "lyfäs" 
+	}, 
+	"hand": { 
+	 	"lietal": "dafi" 
+	}, 
+	"handwritting": { 
+	 	"lietal": "tado" 
+	}, 
+	"heart": { 
+	 	"lietal": "dafo" 
+	}, 
+	"hello": { 
+	 	"lietal": "viro" 
+	}, 
+	"here": { 
+	 	"lietal": "kär" 
+	}, 
+	"he she": { 
+	 	"lietal": "lär" 
+	}, 
+	"his her": { 
+	 	"lietal": "kolär" 
+	}, 
+	"house": { 
+	 	"lietal": "tokafo" 
+	}, 
+	"how": { 
+	 	"lietal": "jafy" 
+	}, 
+	"i": { 
+	 	"lietal": "laro" 
+	}, 
+	"idea": { 
+	 	"lietal": "koti" 
+	}, 
+	"imperative": { 
+	 	"lietal": "dïj" 
+	}, 
+	"imperative future": { 
+	 	"lietal": "dijïr" 
+	}, 
+	"imperative negative": { 
+	 	"lietal": "dijio" 
+	}, 
+	"imperative past": { 
+	 	"lietal": "dijiro" 
+	}, 
+	"imperative present": { 
+	 	"lietal": "dijira" 
+	}, 
+	"in": { 
+	 	"lietal": "ok" 
+	}, 
+	"inside": { 
+	 	"lietal": "ok" 
+	}, 
+	"inside out": { 
+	 	"lietal": "roi" 
+	}, 
+	"kiss": { 
+	 	"lietal": "davita" 
+	}, 
+	"large": { 
+	 	"lietal": "tari" 
+	}, 
+	"last": { 
+	 	"lietal": "lydu" 
+	}, 
+	"less": { 
+	 	"lietal": "ol" 
+	}, 
+	"lesson": { 
+	 	"lietal": "doeti" 
+	}, 
+	"library": { 
+	 	"lietal": "kadoti" 
+	}, 
+	"lietal": { 
+	 	"lietal": "lietäl" 
+	}, 
+	"life": { 
+	 	"lietal": "rida" 
+	}, 
+	"little": { 
+	 	"lietal": "taro" 
+	}, 
+	"man": { 
+	 	"lietal": "dari" 
+	}, 
+	"many": { 
+	 	"lietal": "il" 
+	}, 
+	"message": { 
+	 	"lietal": "doety" 
+	}, 
+	"moment": { 
+	 	"lietal": "doi" 
+	}, 
+	"more": { 
+	 	"lietal": "il" 
+	}, 
+	"morning": { 
+	 	"lietal": "rïd" 
+	}, 
+	"mother": { 
+	 	"lietal": "daroki" 
+	}, 
+	"multiple": { 
+	 	"lietal": "il" 
+	}, 
+	"my": { 
+	 	"lietal": "kolaro" 
+	}, 
+	"name": { 
+	 	"lietal": "tady" 
+	}, 
+	"near": { 
+	 	"lietal": "sika" 
+	}, 
+	"negative": { 
+	 	"lietal": "dijo" 
+	}, 
+	"negative future": { 
+	 	"lietal": "dijori" 
+	}, 
+	"negative past": { 
+	 	"lietal": "dijör" 
+	}, 
+	"negative present": { 
+	 	"lietal": "dijora" 
+	}, 
+	"night": { 
+	 	"lietal": "rodi" 
+	}, 
+	"no": { 
+	 	"lietal": "ov" 
+	}, 
+	"none": { 
+	 	"lietal": "ol" 
+	}, 
+	"normal": { 
+	 	"lietal": "tär" 
+	}, 
+	"nth": { 
+	 	"lietal": "es" 
+	}, 
+	"on": { 
+	 	"lietal": "ik" 
+	}, 
+	"onto": { 
+	 	"lietal": "ik" 
+	}, 
+	"organ": { 
+	 	"lietal": "koda" 
+	}, 
+	"our": { 
+	 	"lietal": "koliro" 
+	}, 
+	"outside": { 
+	 	"lietal": "kia" 
+	}, 
+	"owl": { 
+	 	"lietal": "jöl" 
+	}, 
+	"paper": { 
+	 	"lietal": "tofatay" 
+	}, 
+	"parent": { 
+	 	"lietal": "daki" 
+	}, 
+	"part": { 
+	 	"lietal": "köd" 
+	}, 
+	"past": { 
+	 	"lietal": "diro" 
+	}, 
+	"path": { 
+	 	"lietal": "säk" 
+	}, 
+	"pencil": { 
+	 	"lietal": "tofitay" 
+	}, 
+	"person": { 
+	 	"lietal": "däl" 
+	}, 
+	"place": { 
+	 	"lietal": "doka" 
+	}, 
+	"please": { 
+	 	"lietal": "javi" 
+	}, 
+	"potential": { 
+	 	"lietal": "dija" 
+	}, 
+	"potential future": { 
+	 	"lietal": "dijari" 
+	}, 
+	"potential past": { 
+	 	"lietal": "dijaro" 
+	}, 
+	"potential present": { 
+	 	"lietal": "dijär" 
+	}, 
+	"present": { 
+	 	"lietal": "dira" 
+	}, 
+	"pretty": { 
+	 	"lietal": "vita" 
+	}, 
+	"red": { 
+	 	"lietal": "lyfalo" 
+	}, 
+	"related": { 
+	 	"lietal": "es" 
+	}, 
+	"relation": { 
+	 	"lietal": "ys" 
+	}, 
+	"room": { 
+	 	"lietal": "doki" 
+	}, 
+	"school": { 
+	 	"lietal": "radoti" 
+	}, 
+	"scribble": { 
+	 	"lietal": "douty" 
+	}, 
+	"slow": { 
+	 	"lietal": "lora" 
+	}, 
+	"small": { 
+	 	"lietal": "taro" 
+	}, 
+	"speed": { 
+	 	"lietal": "lyra" 
+	}, 
+	"stranger": { 
+	 	"lietal": "dasu" 
+	}, 
+	"style": { 
+	 	"lietal": "tado" 
+	}, 
+	"telephone": { 
+	 	"lietal": "tëlfö" 
+	}, 
+	"their": { 
+	 	"lietal": "kolira" 
+	}, 
+	"they": { 
+	 	"lietal": "lira" 
+	}, 
+	"time": { 
+	 	"lietal": "rïd" 
+	}, 
+	"to": { 
+	 	"lietal": "ar" 
+	}, 
+	"today": { 
+	 	"lietal": "dila" 
+	}, 
+	"tomorrow": { 
+	 	"lietal": "dilai" 
+	}, 
+	"toward": { 
+	 	"lietal": "ir" 
+	}, 
+	"to add": { 
+	 	"lietal": "fïs" 
+	}, 
+	"to ask": { 
+	 	"lietal": "faroja" 
+	}, 
+	"to assemble": { 
+	 	"lietal": "fïs" 
+	}, 
+	"to attack": { 
+	 	"lietal": "fivota" 
+	}, 
+	"to be": { 
+	 	"lietal": "of" 
+	}, 
+	"to become": { 
+	 	"lietal": "fori" 
+	}, 
+	"to build": { 
+	 	"lietal": "fito" 
+	}, 
+	"to combine": { 
+	 	"lietal": "fïs" 
+	}, 
+	"to come": { 
+	 	"lietal": "för" 
+	}, 
+	"to contain": { 
+	 	"lietal": "foki" 
+	}, 
+	"to destroy": { 
+	 	"lietal": "filo" 
+	}, 
+	"to divide": { 
+	 	"lietal": "fïl" 
+	}, 
+	"to do": { 
+	 	"lietal": "if" 
+	}, 
+	"to draw": { 
+	 	"lietal": "fita" 
+	}, 
+	"to edit": { 
+	 	"lietal": "fide" 
+	}, 
+	"to enter": { 
+	 	"lietal": "foroka" 
+	}, 
+	"to find": { 
+	 	"lietal": "faji" 
+	}, 
+	"to give": { 
+	 	"lietal": "fïr" 
+	}, 
+	"to go": { 
+	 	"lietal": "fori" 
+	}, 
+	"to have": { 
+	 	"lietal": "foki" 
+	}, 
+	"to hold": { 
+	 	"lietal": "fira" 
+	}, 
+	"to insert": { 
+	 	"lietal": "fiko" 
+	}, 
+	"to leave": { 
+	 	"lietal": "forika" 
+	}, 
+	"to listen": { 
+	 	"lietal": "faro" 
+	}, 
+	"to name": { 
+	 	"lietal": "fatady" 
+	}, 
+	"to open": { 
+	 	"lietal": "firo" 
+	}, 
+	"to read": { 
+	 	"lietal": "fatai" 
+	}, 
+	"to remember": { 
+	 	"lietal": "fadiro" 
+	}, 
+	"to remove": { 
+	 	"lietal": "filo" 
+	}, 
+	"to say": { 
+	 	"lietal": "fari" 
+	}, 
+	"to search": { 
+	 	"lietal": "fäj" 
+	}, 
+	"to see": { 
+	 	"lietal": "af" 
+	}, 
+	"to show": { 
+	 	"lietal": "fari" 
+	}, 
+	"to speak": { 
+	 	"lietal": "fari" 
+	}, 
+	"to stay": { 
+	 	"lietal": "fora" 
+	}, 
+	"to substract": { 
+	 	"lietal": "fiso" 
+	}, 
+	"to take": { 
+	 	"lietal": "firo" 
+	}, 
+	"to talk": { 
+	 	"lietal": "fareti" 
+	}, 
+	"to thank": { 
+	 	"lietal": "favify" 
+	}, 
+	"to understand": { 
+	 	"lietal": "fati" 
+	}, 
+	"to walk": { 
+	 	"lietal": "forilora" 
+	}, 
+	"to warn": { 
+	 	"lietal": "farijavo" 
+	}, 
+	"to wear": { 
+	 	"lietal": "fotako" 
+	}, 
+	"to write": { 
+	 	"lietal": "fït" 
+	}, 
+	"true": { 
+	 	"lietal": "ev" 
+	}, 
+	"unbreakable": { 
+	 	"lietal": "jofïl" 
+	}, 
+	"under": { 
+	 	"lietal": "köt" 
+	}, 
+	"unrelated": { 
+	 	"lietal": "us" 
+	}, 
+	"version": { 
+	 	"lietal": "lady" 
+	}, 
+	"violet": { 
+	 	"lietal": "lyfali" 
+	}, 
+	"visitor": { 
+	 	"lietal": "daku" 
+	}, 
+	"wall": { 
+	 	"lietal": "jofy" 
+	}, 
+	"we": { 
+	 	"lietal": "liro" 
+	}, 
+	"welcome": { 
+	 	"lietal": "viro" 
+	}, 
+	"what": { 
+	 	"lietal": "jado" 
+	}, 
+	"when": { 
+	 	"lietal": "jadi" 
+	}, 
+	"whenever": { 
+	 	"lietal": "salïd" 
+	}, 
+	"where": { 
+	 	"lietal": "jaky" 
+	}, 
+	"wherever": { 
+	 	"lietal": "salira" 
+	}, 
+	"which": { 
+	 	"lietal": "jaly" 
+	}, 
+	"white": { 
+	 	"lietal": "lyfasi" 
+	}, 
+	"who": { 
+	 	"lietal": "jäd" 
+	}, 
+	"whoever": { 
+	 	"lietal": "salida" 
+	}, 
+	"will": { 
+	 	"lietal": "ij" 
+	}, 
+	"with": { 
+	 	"lietal": "is" 
+	}, 
+	"woman": { 
+	 	"lietal": "daro" 
+	}, 
+	"woods": { 
+	 	"lietal": "kadao" 
+	}, 
+	"yellow": { 
+	 	"lietal": "lyfalök" 
+	}, 
+	"yes": { 
+	 	"lietal": "iv" 
+	}, 
+	"yesterday": { 
+	 	"lietal": "dilao" 
+	}, 
+	"you": { 
+	 	"lietal": "lari" 
+	}, 
+	"your": { 
+	 	"lietal": "kolari" 
+	}, 
+	"yous": { 
+	 	"lietal": "lïr" 
+	}, 
+	"yousr": { 
+	 	"lietal": "kolïr" 
+	}
+}
