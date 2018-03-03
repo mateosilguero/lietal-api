@@ -2,7 +2,7 @@
 require('dotenv').config();
 
 // Initialize Database
-require('./database');
+//require('./database');
 
 // Initialize Server
 require('./server');

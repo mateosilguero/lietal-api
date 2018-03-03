@@ -1,7 +1,7 @@
 {
-  "name": "node-rest-api-boilerplate",
+  "name": "lietal-api",
   "version": "0.10.0",
-  "description": "Boilerplate project for a restful node backend server powered by ES6 and Express",
+  "description": "lietal translation interface",
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && babel app -d build",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kylealwyn/node-rest-api-boilerplate.git"
+    "url": "git://github.com/mateosilguero/lietal-api.git"
   },
   "keywords": [
     "express",
@@ -29,12 +29,8 @@
     "boilerplate",
     "mongo"
   ],
-  "author": "Kyle Alwyn <kjalwyn@gmail.com>",
+  "author": "Mateo Silguero <mfsilguero@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kylealwyn/node-rest-api-boilerplate/issues"
-  },
-  "homepage": "https://github.com/kylealwyn/node-rest-api-boilerplate",
   "dependencies": {
     "babel-core": "^6.18.0",
     "bcrypt": "^1.0.0",
@@ -43,7 +39,6 @@
     "dotenv": "^4.0.0",
     "express": "^4.14.0",
     "helmet": "^3.1.0",
-    "jsonwebtoken": "^7.1.0",
     "lodash": "^4.16.4",
     "method-override": "^2.3.6",
     "mongoose": "^4.6.5",
