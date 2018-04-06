@@ -1,10 +1,17 @@
-function Lietal(dict) {
+function Lietal(dict, json) {
   this.dict = {en_li:{},li_en:{}};
 
-  for(var id in dict.array) {
-    var value = dict.array[id]
-    this.dict.li_en[value.lietal] = value.english;
-    this.dict.en_li[value.english] = value.lietal;
+  if(!json) {
+    for(var id in dict.array) {
+      var value = dict.array[id]
+      this.dict.li_en[value.lietal] = value.english;
+      this.dict.en_li[value.english] = value.lietal;
+    }
+  } else {
+    for(var key in dict) {
+      this.dict.li_en[dict[key].lietal] = key;
+      this.dict.en_li[key] = dict[key].lietal;
+    }
   }
   
   this.vowel = function(v) {
@@ -63,8 +70,12 @@ function Lietal(dict) {
   this.convert = function(word,direction = "li_en") {
     if(word == '\''){ return word; }
     dict = direction == "li_en" ? this.dict.li_en : this.dict.en_li;
-    word = word.toUpperCase();
-    return dict[word] ? (direction == "en_li" ? this.adultspeak(dict[word]) : dict[word]) : word;
+    word = json ? word.toLowerCase() : word.toUpperCase();
+    if(!json) {
+      return dict[word] ? (direction == "en_li" ? this.adultspeak(dict[word]) : dict[word]) : '¿?';
+    } else {
+      return dict[word] ? dict[word] : '¿?';
+    }
   }
 
   this.deconstruct = function(childspeak) {
@@ -98,9 +109,9 @@ function Lietal(dict) {
       if(part == "|"){ part = "choice"; }
       if(part == ";"){ part = "position"; }
       if(part.substr(0,1) == "!"){ s += `${part.replace("!","")} `; continue; }
-      s += part != "'" ? ` <t title='${part}'>${this.convert(part,"en_li")}</t> ` : part;
+      s += part != "'" ? ` ${this.convert(part,"en_li")} ` : part;
     }
-    return `<t class='lietal'>${s.replace(/ \' /g,"\'").trim()}</t>`;
+    return `${s.replace(/ \' /g,"\'").trim()}`;
   }
 }
 

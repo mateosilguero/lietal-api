@@ -39,9 +39,10 @@ app.use('/public', express.static(`${__dirname}/public`));
 // Mount API routes
 app.use(Constants.apiPrefix, routes);
 
-app.listen(Constants.port, () => {
+app.listen(Constants.port, Constants.ip, () => {
   // eslint-disable-next-line no-console
   console.log(`
+    Ip: ${Constants.ip}
     Port: ${Constants.port}
     Env: ${app.get('env')}
   `);
