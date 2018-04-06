@@ -482,136 +482,136 @@
 	"toward": { 
 	 	"lietal": "ir" 
 	}, 
-	"to add": { 
+	"to_add": { 
 	 	"lietal": "fïs" 
 	}, 
-	"to ask": { 
+	"to_ask": { 
 	 	"lietal": "faroja" 
 	}, 
-	"to assemble": { 
+	"to_assemble": { 
 	 	"lietal": "fïs" 
 	}, 
-	"to attack": { 
+	"to_attack": { 
 	 	"lietal": "fivota" 
 	}, 
-	"to be": { 
+	"to_be": { 
 	 	"lietal": "of" 
 	}, 
-	"to become": { 
+	"to_become": { 
 	 	"lietal": "fori" 
 	}, 
-	"to build": { 
+	"to_build": { 
 	 	"lietal": "fito" 
 	}, 
-	"to combine": { 
+	"to_combine": { 
 	 	"lietal": "fïs" 
 	}, 
-	"to come": { 
+	"to_come": { 
 	 	"lietal": "för" 
 	}, 
-	"to contain": { 
+	"to_contain": { 
 	 	"lietal": "foki" 
 	}, 
-	"to destroy": { 
+	"to_destroy": { 
 	 	"lietal": "filo" 
 	}, 
-	"to divide": { 
+	"to_divide": { 
 	 	"lietal": "fïl" 
 	}, 
-	"to do": { 
+	"to_do": { 
 	 	"lietal": "if" 
 	}, 
-	"to draw": { 
+	"to_draw": { 
 	 	"lietal": "fita" 
 	}, 
-	"to edit": { 
+	"to_edit": { 
 	 	"lietal": "fide" 
 	}, 
-	"to enter": { 
+	"to_enter": { 
 	 	"lietal": "foroka" 
 	}, 
-	"to find": { 
+	"to_find": { 
 	 	"lietal": "faji" 
 	}, 
-	"to give": { 
+	"to_give": { 
 	 	"lietal": "fïr" 
 	}, 
-	"to go": { 
+	"to_go": { 
 	 	"lietal": "fori" 
 	}, 
-	"to have": { 
+	"to_have": { 
 	 	"lietal": "foki" 
 	}, 
-	"to hold": { 
+	"to_hold": { 
 	 	"lietal": "fira" 
 	}, 
-	"to insert": { 
+	"to_insert": { 
 	 	"lietal": "fiko" 
 	}, 
-	"to leave": { 
+	"to_leave": { 
 	 	"lietal": "forika" 
 	}, 
-	"to listen": { 
+	"to_listen": { 
 	 	"lietal": "faro" 
 	}, 
-	"to name": { 
+	"to_name": { 
 	 	"lietal": "fatady" 
 	}, 
-	"to open": { 
+	"to_open": { 
 	 	"lietal": "firo" 
 	}, 
-	"to read": { 
+	"to_read": { 
 	 	"lietal": "fatai" 
 	}, 
-	"to remember": { 
+	"to_remember": { 
 	 	"lietal": "fadiro" 
 	}, 
-	"to remove": { 
+	"to_remove": { 
 	 	"lietal": "filo" 
 	}, 
-	"to say": { 
+	"to_say": { 
 	 	"lietal": "fari" 
 	}, 
-	"to search": { 
+	"to_search": { 
 	 	"lietal": "fäj" 
 	}, 
-	"to see": { 
+	"to_see": { 
 	 	"lietal": "af" 
 	}, 
-	"to show": { 
+	"to_show": { 
 	 	"lietal": "fari" 
 	}, 
-	"to speak": { 
+	"to_speak": { 
 	 	"lietal": "fari" 
 	}, 
-	"to stay": { 
+	"to_stay": { 
 	 	"lietal": "fora" 
 	}, 
-	"to substract": { 
+	"to_substract": { 
 	 	"lietal": "fiso" 
 	}, 
-	"to take": { 
+	"to_take": { 
 	 	"lietal": "firo" 
 	}, 
-	"to talk": { 
+	"to_talk": { 
 	 	"lietal": "fareti" 
 	}, 
-	"to thank": { 
+	"to_thank": { 
 	 	"lietal": "favify" 
 	}, 
-	"to understand": { 
+	"to_understand": { 
 	 	"lietal": "fati" 
 	}, 
-	"to walk": { 
+	"to_walk": { 
 	 	"lietal": "forilora" 
 	}, 
-	"to warn": { 
+	"to_warn": { 
 	 	"lietal": "farijavo" 
 	}, 
-	"to wear": { 
+	"to_wear": { 
 	 	"lietal": "fotako" 
 	}, 
-	"to write": { 
+	"to_write": { 
 	 	"lietal": "fït" 
 	}, 
 	"true": { 
